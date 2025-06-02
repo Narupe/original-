@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\dx_work\Obstacle Run\Obstacle Run\Stage.h(6,9): warning C4005: 'WORLD_LIMIT_LEFT': マクロが再定義されました。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+      C:\dx_work\Obstacle Run\Obstacle Run\Obstacle.h(6,9):
+      'WORLD_LIMIT_LEFT' の以前の定義を確認してください
+  
+C:\dx_work\Obstacle Run\Obstacle Run\Stage.h(7,9): warning C4005: 'WORLD_LIMIT_RIGHT': マクロが再定義されました。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+      C:\dx_work\Obstacle Run\Obstacle Run\Obstacle.h(7,9):
+      'WORLD_LIMIT_RIGHT' の以前の定義を確認してください
+  
+  Obstacle Run.vcxproj -> C:\dx_work\Obstacle Run\x64\Debug\Obstacle Run.exe

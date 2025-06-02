@@ -1,0 +1,1 @@
+Original Game.exe を起動するとゲームをプレイできます。
